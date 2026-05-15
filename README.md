@@ -14,17 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kavyakapri" target="_blank" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/979cfb" width="28" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/kavyakapri"><img src="https://img.shields.io/badge/-LinkedIn-979cfb?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/varaxion" target="_blank" title="X">
-    <img src="https://cdn.simpleicons.org/x/979cfb" width="28" alt="X" />
-  </a>
+  <a href="https://x.com/varaxion"><img src="https://img.shields.io/badge/-X-979cfb?style=flat-square&logo=x&logoColor=white" height="28" alt="X" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:kavyakapri.dev@gmail.com" target="_blank" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/979cfb" width="28" alt="Email" />
-  </a>
+  <code>kavyakapri.dev@gmail.com</code>
 </p>
 
 <p align="center">
@@ -42,20 +36,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varaxion&no-bg=true&no-frame=true&margin-w=15&title=ff3b5c&text=c9d1d9" alt="Trophies" />
+  <a href="https://github.com/varaxion"><img src="https://github-profile-trophy.vercel.app/?username=varaxion&no-bg=true&no-frame=true&margin-w=15&title=ff3b5c&text=c9d1d9" alt="Trophies" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varaxion&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varaxion&layout=compact&hide_border=true&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" />
+  <a href="https://github.com/varaxion"><img src="https://github-readme-stats.vercel.app/api?username=varaxion&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff" alt="GitHub Stats" /></a>
+  <a href="https://github.com/varaxion"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varaxion&layout=compact&hide_border=true&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" /></a>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varaxion&hide_border=true&background=00000000&ring=ff3b5c&fire=ff3b5c&currStreakNum=00d2ff&sideNums=979cfb&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <a href="https://github.com/varaxion"><img src="https://streak-stats.demolab.com/?user=varaxion&hide_border=true&background=00000000&ring=ff3b5c&fire=ff3b5c&currStreakNum=00d2ff&sideNums=979cfb&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varaxion&hide_border=true&area=true&bg_color=00000000&color=c9d1d9&line=979cfb&point=ff3b5c" alt="Activity Graph" />
+  <a href="https://github.com/varaxion"><img src="https://github-readme-activity-graph.vercel.app/graph?username=varaxion&hide_border=true&area=true&bg_color=00000000&color=c9d1d9&line=979cfb&point=ff3b5c" alt="Activity Graph" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varaxion&color=ff3b5c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/varaxion"><img src="https://komarev.com/ghpvc/?username=varaxion&color=ff3b5c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>
