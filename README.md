@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kavyakapri"><img src="https://img.shields.io/badge/-LinkedIn-979cfb?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/kavyakapri"><img src="./linkedin.svg" width="28" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/varaxion"><img src="https://img.shields.io/badge/-X-979cfb?style=flat-square&logo=x&logoColor=white" height="28" alt="X" /></a>
+  <a href="https://x.com/varaxion"><img src="./x.svg" width="28" alt="X" /></a>
   &nbsp;&nbsp;
-  <code>kavyakapri.dev@gmail.com</code>
+  <a href="mailto:kavyakapri.dev@gmail.com" title="kavyakapri.dev@gmail.com (Right-click and select 'Copy Email Address')"><img src="./mail.svg" width="28" alt="Email" /></a>
 </p>
 
 <p align="center">
