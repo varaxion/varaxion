@@ -61,10 +61,10 @@
 </p>
 
 <p align="center">
-  <em>Currently Building</em><br><br>
-  <a href="https://github.com/varaxion/Unscroll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varaxion&repo=Unscroll&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&hide_border=true&description_lines_count=2" alt="Unscroll" /></a>
+  <em>Currently building</em><br><br>
+  <a href="https://github.com/varaxion/Unscroll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varaxion&repo=Unscroll&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&border_color=979cfb&description_lines_count=2" alt="Unscroll" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/varaxion/BrowseTime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varaxion&repo=BrowseTime&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&icon_color=ff3b5c&hide_border=true&description_lines_count=2" alt="BrowseTime" /></a>
+  <a href="https://github.com/varaxion/BrowseTime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varaxion&repo=BrowseTime&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&icon_color=ff3b5c&border_color=979cfb&description_lines_count=2" alt="BrowseTime" /></a>
 </p>
 
 <p align="center">
