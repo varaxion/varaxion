@@ -19,6 +19,8 @@
   &nbsp;&nbsp;
   <a href="https://x.com/varaxion"><img src="./assets/x.svg" width="28" alt="X" /></a>
   &nbsp;&nbsp;
+  <a href="https://instagram.com/varaxion"><img src="./assets/instagram.svg" width="28" alt="Instagram" /></a>
+  &nbsp;&nbsp;
   <a href="mailto:kavyakapri.dev@gmail.com" title="kavyakapri.dev@gmail.com (Right-click and select 'Copy Email Address')"><img src="./assets/mail.svg" width="28" alt="Email" /></a>
 </p>
 
