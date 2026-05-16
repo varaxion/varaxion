@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  Hi, I'm Kavya (Varaxion), a 21-year-old Computer Science and Engineering student from India graduating in 2026.<br><br>
+  Hi, I'm Kavya (Varaxion). I'm 21 and pursuing my Computer Science and Engineering degree in India (Class of 2026).<br><br>
   🧠 <b>Mindset:</b> I approach problems as an engineer, driven by endless questions to understand how things work.<br>
+  🎨 <b>Design:</b> Deeply passionate about aesthetics, user experience, and crafting beautiful digital interfaces.<br>
   🔭 <b>Exploring:</b> The intersections of software development, artificial intelligence, and emerging tech.<br>
   🌌 <b>Inspiration:</b> Science, space, and the possibilities of the unknown.
 </p>
