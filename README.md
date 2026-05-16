@@ -79,7 +79,16 @@
   <a href="https://github.com/varaxion"><img src="https://github-readme-activity-graph.vercel.app/graph?username=varaxion&custom_title=Contribution%20Graph&hide_border=true&area=true&bg_color=00000000&color=c9d1d9&line=979cfb&point=ff3b5c" alt="Activity Graph" /></a>
 </p>
 
+<p align="center">
+  <img src="./assets/divider.svg" width="55%" alt="divider" />
+</p>
 
+<p align="center">
+  <em>Active projects</em><br><br>
+  <a href="https://github.com/varaxion/Unscroll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varaxion&repo=Unscroll&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&border_color=979cfb&description_lines_count=2" alt="Unscroll" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/varaxion/BrowseTime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varaxion&repo=BrowseTime&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9&icon_color=ff3b5c&border_color=979cfb&description_lines_count=2" alt="BrowseTime" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/varaxion"><img src="https://komarev.com/ghpvc/?username=varaxion&color=ff3b5c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /></a>
