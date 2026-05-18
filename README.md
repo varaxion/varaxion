@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api?username=varaxion&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff" alt="GitHub Stats" /></a>
+  <a href="https://github.com/varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api?username=varaxion&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=ff3b5c&text_color=c9d1d9&icon_color=00d2ff&include_all_commits=true&count_private=true" alt="GitHub Stats" /></a>
   <a href="https://github.com/varaxion"><img src="https://github-readme-stats-varaxion.vercel.app/api/top-langs/?username=varaxion&layout=donut&hide_title=true&hide_border=true&bg_color=00000000&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" /></a>
 </p>
 <p align="center">
