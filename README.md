@@ -36,40 +36,58 @@
 
 <p align="center">
   <em>Connect with me</em><br><br>
-  <a href="https://linkedin.com/in/kavyakapri"><img src="./assets/linkedin.svg" width="28" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/kavyakapri"><img src="./assets/socials/linkedin.svg" width="28" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/varaxion"><img src="./assets/x.svg" width="28" alt="X" /></a>
+  <a href="https://x.com/varaxion"><img src="./assets/socials/x.svg" width="28" alt="X" /></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/varaxion"><img src="./assets/instagram.svg" width="28" alt="Instagram" /></a>
+  <a href="https://instagram.com/varaxion"><img src="./assets/socials/instagram.svg" width="28" alt="Instagram" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:kavyakapri.dev@gmail.com" title="kavyakapri.dev@gmail.com (Right-click and select 'Copy Email Address')"><img src="./assets/mail.svg" width="28" alt="Email" /></a>
+  <a href="mailto:kavyakapri.dev@gmail.com" title="kavyakapri.dev@gmail.com (Right-click and select 'Copy Email Address')"><img src="./assets/socials/mail.svg" width="28" alt="Email" /></a>
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="55%" alt="divider" />
 </p>
 
+<p align="center"><em>Worked with</em></p>
+
 <p align="center">
-  <em>Worked with</em><br><br>
-  <a href="https://www.python.org/"><img src="./assets/python.svg" width="30" alt="Python" /></a> &nbsp;
-  <a href="https://isocpp.org/"><img src="./assets/cplusplus.svg" width="30" alt="C++" /></a> &nbsp;
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="./assets/c.svg" width="30" alt="C" /></a> &nbsp;
-  <a href="https://www.oracle.com/java/"><img src="./assets/java.svg" width="30" alt="Java" /></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/javascript.svg" width="30" alt="JavaScript" /></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/html5.svg" width="30" alt="HTML" /></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/css3.svg" width="30" alt="CSS" /></a> &nbsp;
-  <a href="https://react.dev/"><img src="./assets/react.svg" width="30" alt="React" /></a> &nbsp;
-  <a href="https://nodejs.org/"><img src="./assets/nodejs.svg" width="30" alt="Node.js" /></a> &nbsp;
-  <a href="https://expressjs.com/"><img src="./assets/express.svg" width="30" alt="Express" /></a> &nbsp;
-  <a href="https://flutter.dev/"><img src="./assets/flutter.svg" width="30" alt="Flutter" /></a> &nbsp;
-  <a href="https://pytorch.org/"><img src="./assets/pytorch.svg" width="30" alt="PyTorch" /></a> &nbsp;
-  <a href="https://colab.research.google.com/"><img src="./assets/googlecolab.svg" width="30" alt="Google Colab" /></a> &nbsp;
-  <a href="https://firebase.google.com/"><img src="./assets/firebase.svg" width="30" alt="Firebase" /></a> &nbsp;
-  <a href="https://www.mysql.com/"><img src="./assets/mysql.svg" width="30" alt="SQL" /></a> &nbsp;
-  <a href="https://www.mongodb.com/"><img src="./assets/mongodb.svg" width="30" alt="MongoDB" /></a> &nbsp;
-  <a href="https://www.docker.com/"><img src="./assets/docker.svg" width="30" alt="Docker" /></a> &nbsp;
-  <a href="https://vercel.com/"><img src="./assets/vercel.svg" width="30" alt="Vercel" /></a> &nbsp;
-  <a href="https://git-scm.com/"><img src="./assets/git.svg" width="30" alt="Git" /></a>
+  <sub>Languages</sub><br><br>
+  <a href="https://www.python.org/"><img src="./assets/tech/python.svg" width="30" alt="Python" /></a> &nbsp;
+  <a href="https://isocpp.org/"><img src="./assets/tech/cplusplus.svg" width="30" alt="C++" /></a> &nbsp;
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="./assets/tech/c.svg" width="30" alt="C" /></a> &nbsp;
+  <a href="https://www.oracle.com/java/"><img src="./assets/tech/java.svg" width="30" alt="Java" /></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/tech/javascript.svg" width="30" alt="JavaScript" /></a>
+</p>
+
+<p align="center">
+  <sub>Web & UI</sub><br><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/tech/html5.svg" width="30" alt="HTML" /></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/tech/css3.svg" width="30" alt="CSS" /></a> &nbsp;
+  <a href="https://react.dev/"><img src="./assets/tech/react.svg" width="30" alt="React" /></a> &nbsp;
+  <a href="https://nodejs.org/"><img src="./assets/tech/nodejs.svg" width="30" alt="Node.js" /></a> &nbsp;
+  <a href="https://expressjs.com/"><img src="./assets/tech/express.svg" width="30" alt="Express" /></a>
+</p>
+
+<p align="center">
+  <sub>Mobile & ML</sub><br><br>
+  <a href="https://flutter.dev/"><img src="./assets/tech/flutter.svg" width="30" alt="Flutter" /></a> &nbsp;
+  <a href="https://pytorch.org/"><img src="./assets/tech/pytorch.svg" width="30" alt="PyTorch" /></a> &nbsp;
+  <a href="https://colab.research.google.com/"><img src="./assets/tech/googlecolab.svg" width="30" alt="Google Colab" /></a>
+</p>
+
+<p align="center">
+  <sub>Databases</sub><br><br>
+  <a href="https://firebase.google.com/"><img src="./assets/tech/firebase.svg" width="30" alt="Firebase" /></a> &nbsp;
+  <a href="https://www.mysql.com/"><img src="./assets/tech/mysql.svg" width="30" alt="MySQL" /></a> &nbsp;
+  <a href="https://www.mongodb.com/"><img src="./assets/tech/mongodb.svg" width="30" alt="MongoDB" /></a>
+</p>
+
+<p align="center">
+  <sub>Tools</sub><br><br>
+  <a href="https://www.docker.com/"><img src="./assets/tech/docker.svg" width="30" alt="Docker" /></a> &nbsp;
+  <a href="https://vercel.com/"><img src="./assets/tech/vercel.svg" width="30" alt="Vercel" /></a> &nbsp;
+  <a href="https://git-scm.com/"><img src="./assets/tech/git.svg" width="30" alt="Git" /></a>
 </p>
 
 <p align="center">
